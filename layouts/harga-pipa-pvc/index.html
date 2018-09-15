@@ -12,9 +12,10 @@
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12 text-center">
-                <a href="#" class="btn btn-default">Harga Pipa PVC Rucika</a>
-                <a href="#" class="btn btn-default">Harga Pipa PVC Vinilon</a>
-                <a href="#" class="btn btn-default">Harga Pipa PVC Intilon</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/rucika" class="btn btn-default">Harga Pipa PVC Rucika</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/pralon" class="btn btn-default">Harga Pipa PVC Pralon</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/vinilon" class="btn btn-default">Harga Pipa PVC Vinilon</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/intilon" class="btn btn-default">Harga Pipa PVC Intilon</a>
             </div>
 
             <div class="clear" style="margin-bottom:30px;"></div>
@@ -26,9 +27,9 @@
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12 text-center">
-                <a href="#" class="btn btn-default">Harga Pipa PVC Swallow (SNI)</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-sni" class="btn btn-default">Harga Pipa PVC Swallow (SNI)</a>
 
-                <a href="#" class="btn btn-default">Harga Pipa PVC Vinilon (SNI)</a>
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/vinilon-sni" class="btn btn-default">Harga Pipa PVC Vinilon (SNI)</a>
             </div>
             
             <div class="clear" style="margin-bottom:30px;"></div>
@@ -40,10 +41,10 @@
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12 text-center">
-                <a href="#" class="btn btn-default">Harga Pipa PVC Swallow
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-air-limbah" class="btn btn-default">Harga Pipa PVC Swallow
                     <br />(Air Limbah)</a>
 
-                <a href="#" class="btn btn-default">Harga Pipa PVC Vinilon
+                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/vinilon-air-limbah" class="btn btn-default">Harga Pipa PVC Vinilon
                     <br />(Air Limbah)</a>
             </div>
 
@@ -81,7 +82,16 @@
             <div class="col-md-12 col-sm-12">
                 <h3 class="text-center">Harga Pipa PVC Pacific</h3>
                 {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-pacific-aw-d" . }}
+            </div>            
+            
+            <div class="clear" style="margin-bottom:30px;"></div>
+
+            <div class="col-md-12 col-sm-12">
+                <h3 class="text-center">Harga Pipa PVC Supramas</h3>
+                {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-supramas-aw-d" . }}
             </div>
+
+            
         </div>
     </div>
 </div>

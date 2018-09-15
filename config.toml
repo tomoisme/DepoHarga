@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "http://depoharga.com"
 languageCode = "en-us"
 title = "DepoHarga.COM - Portal Informasi Harga Komoditas"
 disableKinds = "RSS"
