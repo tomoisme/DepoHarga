@@ -1,7 +1,12 @@
-baseURL = "http://depoharga.com"
+baseURL = ""
 languageCode = "en-us"
 title = "DepoHarga.COM - Portal Informasi Harga Komoditas"
 disableKinds = "RSS"
 
 [taxonomies]
   tag = "tags"
+
+[outputs]
+  home = ["HTML", "AMP"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "AMP"]
