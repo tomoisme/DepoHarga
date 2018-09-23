@@ -1,26 +1,26 @@
-[debug] [2018-09-23T12:24:36.023Z] ----------------------------------------------------------------------
-[debug] [2018-09-23T12:24:36.023Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tomo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
-[debug] [2018-09-23T12:24:36.023Z] CLI Version:   3.18.5
-[debug] [2018-09-23T12:24:36.023Z] Platform:      win32
-[debug] [2018-09-23T12:24:36.023Z] Node Version:  v8.9.0
-[debug] [2018-09-23T12:24:36.023Z] Time:          Sun Sep 23 2018 19:24:36 GMT+0700 (SE Asia Standard Time)
-[debug] [2018-09-23T12:24:36.023Z] ----------------------------------------------------------------------
+[debug] [2018-09-23T12:50:49.267Z] ----------------------------------------------------------------------
+[debug] [2018-09-23T12:50:49.270Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Tomo\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy
+[debug] [2018-09-23T12:50:49.270Z] CLI Version:   3.18.5
+[debug] [2018-09-23T12:50:49.270Z] Platform:      win32
+[debug] [2018-09-23T12:50:49.270Z] Node Version:  v8.9.0
+[debug] [2018-09-23T12:50:49.271Z] Time:          Sun Sep 23 2018 19:50:49 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-09-23T12:50:49.271Z] ----------------------------------------------------------------------
 [debug] 
-[debug] [2018-09-23T12:24:36.039Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
-[debug] [2018-09-23T12:24:36.039Z] > authorizing via signed-in user
-[debug] [2018-09-23T12:24:36.039Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/depoharga  
+[debug] [2018-09-23T12:50:49.283Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-09-23T12:50:49.283Z] > authorizing via signed-in user
+[debug] [2018-09-23T12:50:49.286Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/depoharga  
   
- Sun Sep 23 2018 19:24:36 GMT+0700 (SE Asia Standard Time)
-[debug] [2018-09-23T12:24:37.146Z] <<< HTTP RESPONSE 200
-[debug] [2018-09-23T12:24:37.146Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/depoharga/tokens  
+ Sun Sep 23 2018 19:50:49 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-09-23T12:50:50.451Z] <<< HTTP RESPONSE 200
+[debug] [2018-09-23T12:50:50.453Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/depoharga/tokens  
   
- Sun Sep 23 2018 19:24:37 GMT+0700 (SE Asia Standard Time)
-[debug] [2018-09-23T12:24:38.029Z] <<< HTTP RESPONSE 200
+ Sun Sep 23 2018 19:50:50 GMT+0700 (SE Asia Standard Time)
+[debug] [2018-09-23T12:50:51.473Z] <<< HTTP RESPONSE 200
 [info] 
 [info] === Deploying to 'depoharga'...
 [info] 
 [info] i  deploying hosting
 [info] i  hosting: preparing public directory for upload...
-[debug] [2018-09-23T12:24:39.682Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/depoharga/uploads/-LN5Nwf0f_tj03sA6UxI?fileCount=96&message=  
+[debug] [2018-09-23T12:50:53.047Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/depoharga/uploads/-LN5TwnZJqVEygJk4LAQ?fileCount=96&message=  
   
- Sun Sep 23 2018 19:24:39 GMT+0700 (SE Asia Standard Time)
+ Sun Sep 23 2018 19:50:53 GMT+0700 (SE Asia Standard Time)
