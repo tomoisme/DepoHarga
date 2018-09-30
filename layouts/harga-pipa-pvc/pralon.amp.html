@@ -1,25 +1,27 @@
-{{ partial "header-default-amp" . }}
+{{ partial "amp/header" . }}
 
-<div class="section section-contents section-products section-pad">
-    <div class="container">
-        <div class="content row">
-            {{ partial "menu/pipa-pvc" . }}
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
-                <h3 class="text-center">Harga Pipa PVC Pralon AW/D</h3>
-                {{ partial "supplier/none" . }} {{ partial "pipa/pvc-pralon-aw-d" . }}
+<div class="page-content">
+    <div class="page-content-scroll">
+        <div class="decoration decoration-margins"></div>
+        <div class="content">
+            <div class="container center-text">
+                {{ partial "menu/pipa-pvc-amp" . }}
             </div>
-
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
-                <h3 class="text-center">Harga Pipa PVC Intilon JIS</h3>
-                {{ partial "supplier/none" . }} {{ partial "pipa/pvc-pralon-jis" . }}
+            <div class="container">
+                <h1 class="center-text uppercase">{{ .Title }}</h1>
             </div>
-
+            <div class="container">
+                <h3 class="center-text half-bottom">Harga Pipa PVC Pralon AW/D</h3>
+                <div class="center-text">{{ partial "supplier/nkr" . }}</div>
+                {{ partial "pipa/pvc-pralon-aw-d" . }}
+            </div>
+            <div class="container">
+                <h3 class="center-text half-bottom">Harga Pipa PVC Pralon JIS VP/VU</h3>
+                <div class="center-text">{{ partial "supplier/nkr" . }}</div>
+                {{ partial "pipa/pvc-pralon-jis" . }}
+            </div>
         </div>
     </div>
 </div>
 
-{{ partial "footer" . }}
+{{ partial "amp/footer" . }}

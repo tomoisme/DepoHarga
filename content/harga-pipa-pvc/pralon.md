@@ -1,5 +1,5 @@
 ---
-title: "Daftar Harga Pipa PVC Pralon - DepoHarga"
+title: "Daftar Harga Pipa PVC Pralon Paling Update"
 date: 2018-09-19T13:29:57+07:00
 draft: false
 layout: "pralon"

@@ -1,5 +1,5 @@
 ---
-title: "Daftar Harga pipa PVC Vinilon Terbaru 2018. DepoHarga.COM"
+title: "Daftar Harga pipa PVC Vinilon Terbaru 2018"
 date: 2018-09-08T23:52:09+07:00
 draft: false
 layout: "vinilon"

@@ -1,0 +1,15 @@
+{{ partial "amp/header" . }}
+
+<div class="page-content">
+    <div class="page-content-scroll">
+        <div class="heading-block">
+            <h4>{{ .Title }}</h4>
+            <div class="overlay"></div>
+        </div>
+        <div class="content">
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+
+{{ partial "amp/footer" . }}

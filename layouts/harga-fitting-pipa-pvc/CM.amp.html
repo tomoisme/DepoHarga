@@ -1,23 +1,25 @@
-{{ partial "header-default-amp" . }}
+{{ partial "amp/header" . }}
 
-<div class="section section-contents section-products section-pad">
-    <div class="container">
-        <div class="content row">
-            <div class="col-md-12 col-lg-12">
-                {{ partial "menu/pipa-pvc" . }}
-                
-                <div class="clear" style="margin-bottom:30px;"></div>
-
-                <h3 class="text-center">Harga Sambungan/Fitting PVC CM AW</h3>
-                {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-aw" .}}
-
-                <div style="clear:both; height: 50px;"></div>
-
-                <h3 class="text-center">Harga Sambungan/Fitting PVC CM D</h3>
-                {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-d" .}}
+<div class="page-content">
+    <div class="page-content-scroll">
+        <div class="decoration decoration-margins"></div>
+        <div class="content">
+            <div class="container center-text">
+                {{ partial "menu/pipa-pvc-amp" . }}
+            </div>
+            <div class="container">
+                <h1 class="center-text uppercase">{{ .Title }}</h1>
+            </div>
+            <div class="container">
+                <h3 class="center-text half-bottom">Harga Fitting PVC CM - AW</h3>
+                {{ partial "pipa/fitting-pvc-cm-aw" . }}
+            </div>
+            <div class="container">
+                <h3 class="center-text half-bottom">Harga Fitting PVC CM - D</h3>
+                {{ partial "pipa/fitting-pvc-cm-d" . }}
             </div>
         </div>
     </div>
 </div>
 
-{{ partial "footer" . }}
+{{ partial "amp/footer" . }}

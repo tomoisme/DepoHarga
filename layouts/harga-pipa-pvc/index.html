@@ -3,6 +3,10 @@
 <div class="section section-contents section-products section-pad">
     <div class="container">
         <div class="content row">
+            <div class="col-md-12 col-sm-12">
+                {{ partial "menu/pipa-pvc" . }}
+            </div>
+            
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12">
@@ -21,31 +25,6 @@
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12">
-                <h2 class="text-center">Pipa PVC SNI</h2>
-            </div>
-
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12 text-center">
-                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-sni" class="btn btn-default">Harga Pipa PVC Swallow (SNI)</a>
-            </div>
-            
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
-                <h2 class="text-center">Pipa PVC Air Limbah</h2>
-            </div>
-
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12 text-center">
-                <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-air-limbah" class="btn btn-default">Harga Pipa PVC Swallow
-                    <br />(Air Limbah)</a>
-            </div>
-
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
                 <h2 class="text-center">Pipa PVC Murah</h2>
             </div>
 
@@ -59,6 +38,13 @@
             <div class="clear" style="margin-bottom:30px;"></div>
 
             <div class="col-md-12 col-sm-12">
+                <h3 class="text-center">Harga Pipa PVC Champion</h3>
+                {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-champion-aw-d" . }}
+            </div>
+
+            <div class="clear" style="margin-bottom:30px;"></div>
+
+            <div class="col-md-12 col-sm-12">
                 <h3 class="text-center">Harga Pipa PVC Samsunglon</h3>
                 {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-samsunglon-aw-d" . }}
             </div>
@@ -66,29 +52,47 @@
 
         <div class="clear" style="margin-bottom:30px;"></div>
 
-        <div class="content row">
-            <div class="col-md-12 col-sm-12">
-                <h3 class="text-center">Harga Pipa PVC Champion</h3>
-                {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-champion-aw-d" . }}
-            </div>
-            
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
-                <h3 class="text-center">Harga Pipa PVC Pacific</h3>
-                {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-pacific-aw-d" . }}
-            </div>            
-            
-            <div class="clear" style="margin-bottom:30px;"></div>
-
-            <div class="col-md-12 col-sm-12">
-                <h3 class="text-center">Harga Pipa PVC Supramas</h3>
-                {{ partial "supplier/none" }} {{ partial "pipa/pvc-supramas-aw-d" . }}
-            </div>
-
-            
+        <div class="col-md-12 col-sm-12">
+            <h3 class="text-center">Harga Pipa PVC Pacific</h3>
+            {{ partial "supplier/nkr" . }} {{ partial "pipa/pvc-pacific-aw-d" . }}
         </div>
+
+        <div class="clear" style="margin-bottom:30px;"></div>
+
+        <div class="col-md-12 col-sm-12">
+            <h3 class="text-center">Harga Pipa PVC Supramas</h3>
+            {{ partial "supplier/none" }} {{ partial "pipa/pvc-supramas-aw-d" . }}
+        </div>
+
+        <div class="clear" style="margin-bottom:30px;"></div>
+
+        <div class="col-md-12 col-sm-12">
+            <h2 class="text-center">Pipa PVC SNI</h2>
+        </div>
+
+        <div class="clear" style="margin-bottom:30px;"></div>
+
+        <div class="col-md-12 col-sm-12 text-center">
+            <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-sni" class="btn btn-default">Harga Pipa PVC Swallow
+                (SNI)</a>
+        </div>
+
+        <div class="clear" style="margin-bottom:30px;"></div>
+
+        <div class="col-md-12 col-sm-12">
+            <h2 class="text-center">Pipa PVC Air Limbah</h2>
+        </div>
+
+        <div class="clear" style="margin-bottom:30px;"></div>
+
+        <div class="col-md-12 col-sm-12 text-center">
+            <a href="{{ .Site.BaseURL }}harga-pipa-pvc/swallow-air-limbah" class="btn btn-default">Harga Pipa PVC
+                Swallow
+                <br />(Air Limbah)</a>
+        </div>
+
     </div>
+</div>
 </div>
 
 {{ partial "footer" . }}
