@@ -1,16 +1,21 @@
 {{ partial "header-default" . }}
 
-<div class="section section-contents section-products section-pad">
+<div class="section section-contents section-pad">
     <div class="container">
         <div class="content row">
-            <div class="col-md-12 col-sm-12 text-center">
+            <div class="col-md-12 col-sm-12">
                 {{ partial "menu/pipa-pvc" . }}
+            </div>
+        </div>
+        <hr>
+        <div class="content row">
+            <div class="col-md-12 col-sm-12">
+                <div class="text-center">
+                    <h3 class="text-center">Daftar Harga Fitting Pipa PVC</h3>
 
-                <div style="clear:both; margin-bottom:30px;"></div>
-
-                <h3 class="text-center">Daftar Harga Fitting Pipa PVC</h3>
-                
-                <a href="{{ .Site.BaseURL }}harga-fitting-pipa-pvc/cm" class="btn btn-default">Harga Fitting PVC CM</a>
+                    <a href="{{ .Site.BaseURL }}harga-fitting-pipa-pvc/cm" class="btn btn-sm">Harga Fitting PVC CM</a> 
+                    <a href="{{ .Site.BaseURL }}harga-fitting-pipa-pvc/rucika" class="btn btn-sm">Harga Fitting PVC Rucika</a>
+                </div>
             </div>
         </div>
     </div>
