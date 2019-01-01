@@ -6,3 +6,4 @@ description: "Jual pipa PVC diameter besar 14 inch, 16 inch, 20 inch sampai 24 i
 layout: "langgeng"
 ---
 
+{{< partial "harga-pipa-pvc/langgeng" >}}
