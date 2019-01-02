@@ -26,6 +26,8 @@ Pipa PVC adalah salah satu bahan bangunan yang diperlukan untuk konstruksi rumah
 
 Merk pipa PVC yang beredar di pasaran sangat beragam, mulai dari pipa PVC Wavin (sekarang telah berganti merk menjadi Rucika Standard), pipa PVC Rucika, Pipa PVC Pralon, Pipa PVC Vinilon, Power, Intilon, Unilon dan lain sebagainya. Harga pipa PVC ini juga bervariasi dan berbeda antara merk yang satu dengan yang lainnya. Bahkan ada pula segmen pipa PVC murah yang menawarkan pipa PVC dengan kualitas yang cukup baik namun dengan harga yang ekonomis. 
 
+{{< adsense-inarticle >}}
+
 Berbicara mengenai pipa paralon, sebenarnya pionir awal yang memasuki pasar Indonesia adalah merk Pralon. Karena itu banyak sekali orang yang menyebut pipa PVC dengan pipa paralon, baru setelah bermunculan merk-merk lainnya barulah masyarakat mulai lebih familiar dengan istilah pipa PVC.
 
 Ada banyak calon pembeli pipa yang menanyakan, apa perbedaan mendasar antara pipa PVC dengan merk ternama dan pipa PVC murah seperti Signature, Champion, Aerindo dan lain sebagainya. Pada dasarnya pipa PVC murah juga memiliki kekuatan yang cukup baik untuk penggunaan seperti pelindung kabel (pipa conduit) dan juga pengairan dan air buangan. Dengan pemakaian yang benar, ketahanan pipa PVC murah juga sama baiknya dengan pipa mahal.

@@ -3,7 +3,16 @@ title: "Harga Mesin Jahit Terbaru 2019 (Singer, Brother, Janome, JUKI, HZL, dll)
 date: 2018-12-24T08:17:12+07:00
 draft: false
 description: "Dapatkan harga mesin jahit terbaru untuk usaha konveksi, usaha garmen, maupun usaha jahitan anda."
-layout: "single"
+layout: "single-tagar"
+tagar:
+- mesin jahit singer
+- mesin jahit brother
+- tipe mesin jahit
+- usaha konveksi
+- usaha garmen
+- usaha jahit
+- bisnis konveksi
+- harga mesin jahit
 ---
 
 {{<adsense-responsive>}}
