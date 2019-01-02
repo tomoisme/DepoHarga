@@ -1,23 +1,14 @@
-{{ partial "header-default" . }}
+<div class="col-md-12 col-lg-12">
+    {{ partial "menu/pipa-pvc" . }}
+    
+    <hr>
 
-<div class="section section-contents section-products section-pad">
-    <div class="container">
-        <div class="content row">
-            <div class="col-md-12 col-lg-12">
-                {{ partial "menu/pipa-pvc" . }}
-                
-                <div class="clear" style="margin-bottom:30px;"></div>
+    <h3 class="text-center">Harga Sambungan/Fitting PVC CM AW</h3>
+    {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-aw" .}}
 
-                <h3 class="text-center">Harga Sambungan/Fitting PVC CM AW</h3>
-                {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-aw" .}}
+    <div class="clear"></div>
+    <br><br>
 
-                <div style="clear:both; height: 50px;"></div>
-
-                <h3 class="text-center">Harga Sambungan/Fitting PVC CM D</h3>
-                {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-d" .}}
-            </div>
-        </div>
-    </div>
+    <h3 class="text-center">Harga Sambungan/Fitting PVC CM D</h3>
+    {{partial "supplier/nkr" . }} {{ partial "pipa/fitting-pvc-cm-d" .}}
 </div>
-
-{{ partial "footer" . }}
