@@ -20,6 +20,12 @@ tagar:
 - pipa PPR Asialing
 - pipa PPR WestPex
 - Pipa PPR Lesso
+- bahan bangunan
+- material bangunan
+- toko bahan bangunan
+- toko material
+- harga bahan bangunan
+- harga material
 ---
 
 {{< partial "harga-pipa-ppr/index" >}}

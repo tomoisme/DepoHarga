@@ -12,6 +12,12 @@ tagar:
 - pipa ppr asialing
 - asialing
 - fitting ppr asialing
+- bahan bangunan
+- material bangunan
+- toko bahan bangunan
+- toko material
+- harga bahan bangunan
+- harga material
 ---
 
 {{< partial "harga-fitting-pipa-ppr/asialing" >}}

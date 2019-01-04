@@ -13,6 +13,12 @@ tagar:
 - sambungan PVC Rucika
 - pricelist sambungan Rucika
 - pricelist fitting PVC Rucika
+- bahan bangunan
+- material bangunan
+- toko bahan bangunan
+- toko material
+- harga bahan bangunan
+- harga material
 ---
 
 {{< partial "harga-fitting-pipa-pvc/rucika" >}}

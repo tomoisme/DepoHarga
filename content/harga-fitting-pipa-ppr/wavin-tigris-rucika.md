@@ -14,6 +14,12 @@ tagar:
 - wavin tigris
 - fitting ppr tigris
 - fitting ppr wavin
+- bahan bangunan
+- material bangunan
+- toko bahan bangunan
+- toko material
+- harga bahan bangunan
+- harga material
 ---
 
 {{< partial "harga-fitting-pipa-ppr/wavin-tigris-rucika" >}}

@@ -16,6 +16,12 @@ tagar:
 - CM
 - fitting PVC Rucika
 - fitting PVC CM
+- bahan bangunan
+- material bangunan
+- toko bahan bangunan
+- toko material
+- harga bahan bangunan
+- harga material
 ---
 
 {{< partial "harga-fitting-pipa-pvc/index" >}}
