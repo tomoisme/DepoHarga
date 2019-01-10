@@ -38,6 +38,8 @@ Sama dengan tipe genteng yang memiliki banyak ragam, harga genteng juga bervaria
 
 {{< partial "atap/index" >}}
 
+Sebelum anda menentukan pemakaian genteng untuk rumah/bangunan anda, akan lebih baik apabila anda mengetahui kelebihan dan kekurangan dari masing-masing tipe genteng. Dengan mengetahui kelebihan dan kekurangan dari masing-masing tipe genteng, anda dapat mencocokkannya terlebih dahulu dengan kriteria yang anda inginkan untuk proyek anda.
+
 ### Kelebihan Dan Kelemahan Genteng Metal
 
 Kelebihan:
@@ -53,7 +55,7 @@ Kelemahan:
 - Pemasangan harus presisi, jika tidak rapi maka sangat terlihat tidak indah.
 - Karena ringan, atap ini mudah terbawa angin. Untuk itu memerlukan sekrup untuk pemasangannya.
 
-### Kelebihan Dan Kelemahan Genteng Tanah Liat/Genteng Keramik
+### Kelebihan Dan Kelemahan Genteng Tanah Liat
 
 Kelebihan:
 
@@ -65,124 +67,95 @@ Kelemahan:
 
 - Diperlukan ketelitian pada saat pemasangan reng sehingga tidak terjadi kebocoran di dalam rumah.
 - Mudah berlumut atau berjamur jika tidak dilapisi cat atau glasur.
-- Menggunakan pola pemasangan zig zag dengan sistem sambungan inlock.
+- Menggunakan pola pemasangan zig zag dengan sistem sambungan inlock. Relatif lebih tahan terhadap hembusan angin kencang dibandingkan dengan atap lebar tertutup.
+
+### Kelebihan Dan Kekurangan Genteng Keramik
+
+kelebihan:
+
+- Tahan lama dan kuat menahan beban.
+- Warna lebih tahan lama karena diproses dengan pembakaran dengan suhu 1100 °C
+- Menggunakan sistem interlock yang memungkinkan adanya celah untuk mengaitkan. Lebih aman dari hembusan angin kencang.
+
+Kekurangan:
+
+- Pemasangannya harus teliti agar tidak terjadi kebocoran di dalam rumah.
+- Kemiringan atap harus ditentukan dengan baik agar air hujan dapat mengalir sempurna dan genteng tidak dapat terlepas ketika diterpa angin.
+
+### Kelebihan Dan Kekurangan Atap Alderon
+
+Kelebihan:
+- Insulator panas yang baik, sehingga ruang di bawahnya akan terlindungi maksimal dari radiasi panas sinar matahari.
+- Ringan namun kuat sehingga pemasangannya mudah dan cepat, umur pemakaiannya pun panjang.
+- Tahan terhadap korosi dan air hujan yang bersifat asam (pH < 7), tidak seperti genteng metal yang perlu dilapisi anti karat terlebih dahulu.
+- Bahan PVC termasuk ke dalam golongan flame retardant, jadi tidak menyebarkan api pada saat terjadi kebakaran. Akan lebih efektif apabila dikombinasikan dengan rangka atap baja ringan.
+
+Kekurangan:
+- Harganya relatif mahal
+
+### Kelebihan Dan Kekurangan Genteng Aspal
+
+Kelebihan:
+
+- Mudah dan praktis pemasangannya.
+- Lebih ringan daripada genteng beton atau keramik.
+- Genteng aspal dapat diaplikasikan untuk kemiringan yang cukup bervariasi, mulai dari 22,5° sampai dengan 90°.
+- Tahan api dan lebih kuat terhadap tekanan angin (tidak melengkung/penyok).
+- Pilihan warna lebih beragam dan tidak pudar.
+- Tidak ditumbuhi jamur.
+  
+Kekurangan:
+
+- Harga genteng aspal relatif mahal.
+
+### Kelebihan dan Kekurangan Genteng Kaca/Genteng Transparan
+
+Kelebihan:
+
+- Meneruskan cahaya matahari, sehingga dapat menghemat penggunaan listrik lampu pada siang hari.
+- Berkesan modern dan cocok untuk diaplikasikan pada rumah minimalis modern.
+
+Kekurangan:
+
+- Terbuat dari material yang mudah pecah (kaca).
+- Karena meneruskan sinar infra merah dari cahaya matahari, penggunaan genteng kaca akan meningkatkan suhu panas pada ruangan di bawahnya.
 
 
-3. Genteng Aspal
+### Kelebihan dan Kekurangan Genteng Beton
 
-Material genteng yang satu ini bersifat solid namun tetap ringan, terbuat dari campuran lembaran bitumen (turunan aspal) dan bahan kimia lain. Ada dua model yang tersedia di pasaran, yaitu :
+Kelebihan:
 
-    Model datar bertumpu pada multipleks yang menempel pada rangka.
-    Model bergelombang yang pemasangannya cukup disekrup pada balok gording.
+- Kuat dan tahan lama.
+- Tahan terhadap tekanan tinggi. 
+- Tidak mudah goyah oleh hembusan angin kencang.
 
-Kelebihannya adalah :
+Kekurangan:
 
-    Ringan 1/6 dari berat genteng beton atau keramik.
-    Bisa digunakan untuk kemiringan genteng 22,5° sampai 90°.
-    Mudah dan praktris dalam pemasangannya.
-    Tahan terhadap api dan mampu menahan tekanan angin.
-    Memiliki pilihan warna dan dilindungi lapisan anti jamur dan anti pudar.
+- Mudah ditumbuhi lumut.
 
-Kelemahannya adalah :
+### Kelebihan dan Kekurangan Genteng Polycarbonate
 
-    Harganya relatif mahal.
+Kelebihan:
 
-4. Genteng Kaca
-
-Genteng ini dipakai agar sinar matahari dapat masuk ke dalam ruangan secara langsung sehingga menghemat konsumsi listrik untuk penerangan. Material genteng ini terbuat dari kaca. Genteng ini mempunyai bentuk yang terbatas sehingga kompatibel atau sesuai dengan beberapa jenis genteng tertentu saja.
-
-Keunggulannya adalah :
-
-    Bahannya yang bersifat transparan.
-    Bisa memberikan pencahayaan alami di dalam rumah.
-    Kaca memiliki kesan modern sehingga cocok dipadukan di rumah yang bergaya modern dan minimalis.
-
-Kekurangannya adalah :
-
-    Bahannya yang mudah pecah.
-    Penggunaan yang berlebihan akan berakibat meningkatnya suhu ruangan dibawahnya.
-
-5. Genteng Keramik
-
-Genteng ini memiliki warna yang cukup banyak karena pada saat proses finishingnya dilapisi pewarna pada kelebihan dari genteng ini adalah :
-
-    Lebih tahan lama dan kuat menahan beban manusia.
-    Warna akan tahan lama karena diproses dengan pembakaran dengan suhu 1100 °
-    Sistem interlock yang memungkinkan adanya celah untuk mengaitkan.
-
-Kelemahannya adalah :
-
-    Diperlukan ketelitian pada saat pemasangan reng sehingga tidak terjadi kebocoran di dalam rumah.
-    Selain itu diperlukan kemiringan atap minimum 30° agar air hujan dapat mengalir sempurna dan genteng tidak dapat terlepas ketika diterpa angin (jika dipasang pada sudut kemiringan 45 – 60°.
-    Perlu bantuan baut ketika memasangnya agar genteng tidak terlepas dan lebih kuat.
-
-6. Genteng Beton
-
-Genteng jenis ini terbuat dari beton, yaitu campuran pasir, semen, kerikil, dan bahan adiktif. Bentuknya yang bergelombang dan ada juga yang datar. Bentuk datar muncul seiring dengan gaya arsitektur rumah yang modern dan minimalis sehingga perlu adanya penyesuaian bentuk atap yang lebih sederhana.
-
-Keunggulannya adalah :
-
-    Kuat dan tahan lama dan daya tahan terhadap tekanan tinggi sehingga tidak mudah goyah oleh angin.
-
-Kekurangannya adalah :
-
-    Memiliki tekstur yang kasar dan mudah timbul lumut pada permukannya.
-
-7. Genteng Polycarbonate
-
-Polycarbonate berbentuk lembaran datar dengan pilihan warna bervariatif dan dijual per roll. Polycarbonate ada dua jenis yaitu :
-
-    Polycarbonate rata dengan rongga.
-    Polycarbonate bergelombang tanpa rongga.
-
-Polycarbonate biasanya digunakan di garasi, kanopi atau untuk atap tambahan. Harga Polycarbonate tergantung merk dan jenis. Pemasangan polycarbonate untuk rangka kayu menggunakan paku, sedangkan untuk rangka baja menggunakan mur baut.
-
-Tips sederhana memilih kualitas polycarbonate adalah dengan menekan kuat dengan jari penampang berongga pada lembaran polycarbonate, jika berkualitas jelek maka konstruksi berongga polycarbonate yang ditekan tadi tidak akan kuat menahan tekanan jari, maka bisa dilakukan tes pada beberapa merk polycarbonate yang berbeda lebih disarankan lagi anda lakukan tes ini pada polycarbonate dengan harga yang termahal dan pada harga yang termurah untuk lebih jelas melihat perbedaannya.
-
-Kelebihan dari polycarbonate adalah :
-
-    Dapat meredam radiasi matahari.
-    Dicetak dalam bentuk lembaran, sehingga mudah bila dipakai diluasan yang besar.
-    Cepat dalam pemasangan.
-    Mudah di dapat di pasaran.
-    Kedap air.
-    Bebas rayap.
+- Dapat menahan cahaya matahari dengan cukup baik.
+- Pemasangan mudah dan cepat karena ringan dan tersedia dalam lembaran yang cukup luas.
+    
 
 Kekurangannya adalah :
 
-    Harganya mahal.
-    Polycarbonate berongga rentan terhadap jamur dan sulit dibersihkan.
+- Harga relatif mahal.
+- Rentan terhadap pertumbuhan jamur.
 
-8. Genteng Sirap
+### Kelebihan dan Kekurangan Genteng Asbes
 
-Genteng sirap berasal dari kayu ulin yang dikenal juga dengan nama kayu besi atau kayu bulian. Kayu ulin berasal dari daerah Kalimantan dan memiliki ketahanan yang sangat baik terhadap perubahan suhu, kelembaban, dan pengaruh air laut, sehingga banyak dimanfaatkan sebagai bahan bangunan, seperti konstruksi rumah, jembatan, tiang listrik, bantalan kereta api, dan perkapalan.
+Kelebihan:
 
-Bentuk atap sirap biasanya berupa lembaran tipis memanjang yang dihasilkan dari belahan kayu ulin. Atap sirap dari kayu ulin ini berwarna coklat kehitaman. Ukuran 1 lembar atap sirap biasanya (P X L X T) = 58 X 6 X 0.3 dan 58 X 6 X 0.5 (masing – masing dalam satuan cm). Lembaran tipis tersebut dikemas dalam ikatan. Saat ini pemerintah memperketat perdagangan dan pemanfaatan kayu ulin, sehingga peredaran atap sirap dari kayu ulin sangat berfluktuatif, bahkan terkadang sulit menemukan atap sirap di pasaran. Oleh karena itu kini mulai diproduksi atap sirap dari bahan kayu merbau sebagai alternatif pengganti atap sirap dari kayu ulin. Merbau merupakan salah satu jenis kayu keras dan biasanya dimanfaatkan dalam kostruksi bangunan, jembatan, parket (flooring), pintu dan jendela, dan lain – lain. Berbeda dengan atap sirap ulin, atap sirap merbau ini berwarna coklat kekuningan.
+- Harga genteng asbes Lebih murah dibandingkan genteng tanah liat, genteng keramik, aspal, polycarbonate maupun genteng metal.
+- Pemasangan cukup mudah, walaupun lebih berat daripada polycarbonate.
+- Tidak membutuhkan banyak kayu reng untuk pemasangannya
+- Tidak mudah bocor 
+- Cukup baik untuk menahan panas dari radiasi cahaya matahari.
 
-Kelebihan dari atap sirap :
+Kekurangan:
 
-    Bahannya cukup ringan.
-    Bersifat isolisasi terhadap panas.
-
-Kekurangan menggunakan atap sirap :
-
-    Pemasangannya cukup sulit sehingga biaya yang akan digunakan akan bertambah.
-    Bila lembaran sirap belum cukup kering sudah di pasang akan membilut dan berubah bentuk menjadi cekung.
-
-9. Genteng Asbes (Fiber Semen)
-
-Asbestos atau asbes, merupakan gabungan enam mineral silikat alam. Penutup atap dari bahan asbes sangat akrab dengan masyarakat, selain harganya murah dan pemasangannya mudah, karena atap asbes memiliki bobot yang ringan sehingga tidak membutuhkan konstruksi gording yang khusus.
-
-Kelebihan genteng asbes adalah :
-
-    Lebih murah dibandingkan genteng.
-    Pemasangan relatif lebih mudah.
-    Tidak membutuhkan banyak kayu reng tidak mudah bocor dan ruangan menjadi sejuk karena sifat asbes yang tidak menyerap panas.
-
-Kekurangan genteng asbes adalah :
-
-    Penggunaan asbes sebagai atap rumah menurut para ahli kesehatan sebetulnya kurang baik karena dapat menyebabkan penyakit. Hal ini terjadi karena serat asbes dalam bentuk partikel mudah lepas dan bertebangan, sehingga bila terhirup penghuninya akan menyebabkan penyakit kanker paru – paru.
-
-10. Genteng Atap Kain Terpal
-
-Genteng jenis ini umumnya hanya digunakan pada atap sebuah balkon, atau cocok juga diterapkan untuk atap sebuah jendela. Terbuat dari bahan kain terpal serta plastik padat yang elastis. Jenis ini bertumpu pada kerangka besi yang sudah dibentuk sesuai dengan keinginan. Dikuatkan atau ditempel dengan menggunakan baut dan sekrup supaya dapat menempel kuat pada dinding. Keunggulannya adalah sistem mudah dibongkar pasang.
+- Berdasarkan penelitian dan riset para ahli, penggunaan asbes kurang baik baik kesehatan karena dapat menyebabkan kanker paru-paru. Bahan asbes dapat dengan mudah lapuk dan partikelnya dapat terlepas dan terhirup oleh penghuni rumah, disinyalir menjadi penyebab banyak penyakit paru-paru, salah satunya yang fatal adalah kanker.
