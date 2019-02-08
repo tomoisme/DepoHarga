@@ -1,11 +1,12 @@
-{{ partial "header-default" . }}
+{{ partial "header" . }}
+
 <div class="section section-contents section-products section-pad">
     <div class="container">
         <div class="content row">
-            <div class="col-md-12 col-sm-12">
-                {{ .Content }}
-            </div>
+            <h2>{{ .Title }}</h2>
+            {{ .Content }}
         </div>
     </div>
 </div>
+
 {{ partial "footer" . }}

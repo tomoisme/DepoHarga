@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="{{ .Description }}">
+	<title>{{ .Title }}</title>
+
+	<!-- Bootstrap core CSS -->
+	<link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+		<div class="container">
+			<a class="navbar-brand" href="{{ .Site.BaseURL }}">DepoHARGA</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+			 aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navbarsExampleDefault">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="dinding" data-toggle="dropdown" aria-haspopup="true"
+						 aria-expanded="false">Dinding</a>
+						<div class="dropdown-menu" aria-labelledby="dinding">
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-batu-bata-batako-hebel">
+								Harga Batu Bata, Batako, Hebel
+							</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="atap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Atap</a>
+						<div class="dropdown-menu" aria-labelledby="atap">
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-genteng">
+								Harga Genteng
+							</a>
+						</div>
+					</li>
+
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="lantai" data-toggle="dropdown" aria-haspopup="true"
+						 aria-expanded="false">Lantai</a>
+						<div class="dropdown-menu" aria-labelledby="lantai">
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-granit">
+								Harga Granit
+							</a>
+						</div>
+					</li>
+
+
+					<li class="nav-item dropdown">
+						<a class="nav-link dropdown-toggle" href="#" id="pipa" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pipa</a>
+						<div class="dropdown-menu" aria-labelledby="pipa">
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-pipa-pvc">
+								Harga Pipa PVC
+							</a>
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-fitting-pipa-pvc">
+								Harga Fitting Pipa PVC
+							</a>
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-pipa-ppr">
+								Harga Pipa PPR
+							</a>
+							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-fitting-pipa-ppr">
+								Harga Fitting Pipa PPR
+							</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</nav>
+	<div style="height: 100px; clear: both"></div>

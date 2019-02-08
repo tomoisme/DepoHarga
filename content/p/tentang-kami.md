@@ -5,6 +5,5 @@ draft: false
 layout: "standard"
 ---
 
-## Tentang Kami
 DepoHarga.COM merupakan portal informasi harga berbagai barang komoditas yang dijual di Indonesia. Kami memiliki misi untuk memudahkan calon pembeli untuk mendapatkan info harga yang paling akurat dan paling update. Dengan pengalaman di bidang pengadaan barang dan pembelian barang selama lebih dari 5 tahun, kami yakin dapat memberikan kontribusi positif bagi setiap pengunjung.
 
