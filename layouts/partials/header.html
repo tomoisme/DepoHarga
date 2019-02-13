@@ -5,10 +5,12 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="{{ .Description }}">
+	<link rel="icon" href="{{ .Site.BaseURL }}image/favicon.png" type="image/png" sizes="16x16">
 	<title>{{ .Title }}</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
+	{{ partial "analytics" . }}
 </head>
 
 <body>
