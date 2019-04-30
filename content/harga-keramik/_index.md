@@ -38,13 +38,13 @@ Lantai keramik adalah salah satu komponen rumah huni yang nyaman dan asri. Untuk
 
 Bahan dasar lantai keramik terbuat dari tanah liat, hanya saja perbedaannya terletak pada variasi finishing dan pemilihan material tambahan sehingga menghasilkan tipe-tipe keramik yang bervariasi seperti: keramik marmer, keramik glossy, keramik dop, keramik satin dan juga keramik matte.
 
-{{<adsense-inarticle>}}
+{{<adsense-responsive>}}
 
 Hal yang menentukan harga keramik baik itu keramik minimalis maupun keramik modern salah satunya adalah faktor ukuran. Harga keramik dengan ukuran 40x40 tentu saja akan berbeda dengan keramik ukuran 50x50 maupun ukuran lainnya. Selain itu harga keramik juga bisa berbeda satu dengan yang lain diakibatkan oleh fungsinya, misalkan saja harga keramik untuk lantai akan berbeda dengan harga keramik yang digunakan untuk dinding dan kamar mandi. Perbedaan merk, motif keramik dan kualitas keramik juga turut menjadi faktor pembeda harga keramik satu dengan yang lainnya.
 
 Pusing dengan banyaknya informasi mengenai harga keramik yang perlu anda cari dari satu toko ke toko lainnya? Saat ini anda dapat melihat terlebih dahulu acuan harga keramik terbaru baik harga lantai keramik maupun harga keramik dinding, harga keramik kamar mandi, harga keramik dapur di DepoHarga sebelum memastikannya langsung ke toko bahan bangunan terdekat. Dengan acuan harga ini kemudian anda dapat membandingkan langsung dengan harga di pasaran dan juga dapat mencocokkan budget anda.
 
-{{<adsense-inarticle>}}
+{{<adsense-responsive>}}
 
 {{< partial "keramik/index" >}}
 
