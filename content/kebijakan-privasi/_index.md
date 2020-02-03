@@ -2,8 +2,10 @@
 title: "Kebijakan Privasi DepoHarga.COM"
 date: 2018-09-30T14:44:53+07:00
 draft: false
-layout: "index"
+layout: "single"
 ---
+
+## Kebijakan Privasi DepoHarga.COM
 
 Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di info@depoharga.com.
 

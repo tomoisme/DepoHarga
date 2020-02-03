@@ -1,16 +1,19 @@
 {{ partial "header" . }}
 
-<div class="container">
-    <div class="col-md-12 col-sm-12">
-        {{ .Content }}
-        <hr>
-        <p>
-            Tagar:
-            {{ $siteurl := .Site.BaseURL }}
-            {{ range .Params.tagar }}
-            #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>
-            {{ end }}
-        </p>
+<div class="bg-white default-padding">
+    <div class="container">
+        <div class="col-md-12 col-sm-12 text-center">
+            {{ .Content }}
+            <hr>
+            <br>
+            <p>
+                Tagar:
+                {{ $siteurl := .Site.BaseURL }}
+                {{ range .Params.tagar }}
+                #<a href="{{ $siteurl }}tag/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </p>
+        </div>
     </div>
 </div>
 

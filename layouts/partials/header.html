@@ -1,98 +1,186 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="{{ .Description }}">
-	<link rel="icon" href="{{ .Site.BaseURL }}image/favicon.png" type="image/png" sizes="16x16">
-	<title>{{ .Title }}</title>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Buspro - Multipurpose Business and Corporate Template">
 
-	<!-- Bootstrap core CSS -->
-	<link href="{{ .Site.BaseURL }}css/bootstrap.min.css" rel="stylesheet">
+    <!-- ========== Page Title ========== -->
+    <title>{{ .Description }}</title>
 
-	{{ partial "analytics" . }}
-	{{ partial "adsense" . }}
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="{{ .Site.BaseURL }}/assets/img/favicon.png" type="image/x-icon">
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="{{ .Site.BaseURL }}/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/flaticon-set.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/animate.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/bootsnav.css" rel="stylesheet" />
+    <link href="{{ .Site.BaseURL }}/assets/css/style.css" rel="stylesheet">
+    <link href="{{ .Site.BaseURL }}/assets/css/responsive.css" rel="stylesheet" />
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="{{ .Site.BaseURL }}/assets/js/html5/html5shiv.min.js"></script>
+      <script src="{{ .Site.BaseURL }}/assets/js/html5/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
-		<div class="container">
-			<a class="navbar-brand" href="{{ .Site.BaseURL }}">DepoHARGA</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
-			 aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-				<span class="navbar-toggler-icon"></span>
-			</button>
 
-			<div class="collapse navbar-collapse" id="navbarsExampleDefault">
-				<ul class="navbar-nav mr-auto">
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="dinding" data-toggle="dropdown" aria-haspopup="true"
-						 aria-expanded="false">Dinding</a>
-						<div class="dropdown-menu" aria-labelledby="dinding">
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-batu-bata-batako-hebel">
-								Harga Batu Bata, Batako, Hebel
-							</a>
-						</div>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="atap" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Atap</a>
-						<div class="dropdown-menu" aria-labelledby="atap">
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-genteng">
-								Harga Genteng
-							</a>
-						</div>
-					</li>
+    <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
 
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="lantai" data-toggle="dropdown" aria-haspopup="true"
-						 aria-expanded="false">Lantai</a>
-						<div class="dropdown-menu" aria-labelledby="lantai">
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-granit">
-								Harga Granit
-							</a>
-						</div>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="pipa" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pipa</a>
-						<div class="dropdown-menu" aria-labelledby="pipa">
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-pipa-pvc">
-								Harga Pipa PVC
-							</a>
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-fitting-pipa-pvc">
-								Harga Fitting Pipa PVC
-							</a>
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-pipa-hdpe">
-								Harga Pipa HDPE
-							</a>
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-fitting-pipa-hdpe">
-								Harga Fitting Pipa HDPE
-							</a>
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-pipa-ppr">
-								Harga Pipa PPR
-							</a>
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-fitting-pipa-ppr">
-								Harga Fitting Pipa PPR
-							</a>
-						</div>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="mesin" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Mesin</a>
-						<div class="dropdown-menu" aria-labelledby="mesin">
-							<a class="dropdown-item" href="{{ .Site.BaseURL }}harga-mesin/harga-mesin-jahit-terbaru/">
-								Harga Mesin Jahit Terbaru
-							</a>
-						</div>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{ .Site.BaseURL }}games">Games</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{ .Site.BaseURL }}berita">Berita</a>
-					</li>
-				</ul>
-			</div>
-		</div>
+    <!-- Header 
+    ============================================= -->
+    <header id="home">
 
-	</nav>
-	<div style="height: 100px; clear: both"></div>
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-default attr-border navbar-sticky bootsnav">
+
+            <div class="container">
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="{{ .Site.BaseURL }}">
+                        <img src="{{ .Site.BaseURL }}/assets/img/logo.png" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
+                        <li class="dropdown megamenu-fw">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Bahan Bangunan</a>
+                            <ul class="dropdown-menu megamenu-content" role="menu">
+                                <li>
+                                    <div class="row">
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Dinding</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="#">Pasir</a></li>
+                                                    <li><a href="#">Semen</a></li>
+                                                    <li><a href="#">Batu Bata</a></li>
+                                                    <li><a href="#">Hebel</a></li>
+                                                    <li><a href="#">Mix</a></li>
+                                                </ul>
+                                            </div>
+                                        </div><!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Atap</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="#">Atap Baja Ringan</a></li>
+                                                    <li><a href="#">Genteng Keramik</a></li>
+                                                    <li><a href="#">Genteng Aspal</a></li>
+                                                    <li><a href="#">Genteng Tradisional</a></li>
+                                                </ul>
+                                            </div>
+                                        </div><!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Pipa</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="{{ .Site.BaseURL }}/harga-pipa-pvc/">Pipa PVC</a></li>
+                                                    <li><a href="#">Fitting PVC</a></li>
+                                                    <li><a href="{{ .Site.BaseURL }}/harga-pipa-ppr/">Pipa PPR</a></li>
+                                                    <li><a href="#">Fitting PPR</a></li>
+                                                    <li><a href="#">Pipa Besi</a></li>
+                                                </ul>
+                                            </div>
+                                        </div><!-- end col-3 -->
+                                        <div class="col-menu col-md-3">
+                                            <h6 class="title">Lantai</h6>
+                                            <div class="content">
+                                                <ul class="menu-col">
+                                                    <li><a href="#">Keramik</a></li>
+                                                    <li><a href="#">Kayu/Parkit</a></li>
+                                                </ul>
+                                            </div>
+                                        </div><!-- end col-3 -->
+                                    </div><!-- end row -->
+                                </li>
+                            </ul>
+                        </li>
+                        <!-- <li class="dropdown">
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >Gallery</a>
+                            <ul class="dropdown-menu">
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Grid Colum</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="gallery-grid-2-colum.html">Gallery Two Colum</a></li>
+                                        <li><a href="gallery-grid-3-colum.html">Gallery Three Colum</a></li>
+                                        <li><a href="gallery-grid-4-colum.html">Gallery Four Colum</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Masonary Colum</a>
+                                    <ul class="dropdown-menu">
+                                        <li><a href="gallery-2-colum.html">Gallery Two Colum</a></li>
+                                        <li><a href="gallery-3-colum.html">Gallery Three Colum</a></li>
+                                        <li><a href="gallery-4-colum.html">Gallery Four Colum</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >Services</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="services.html">Services Version One</a></li>
+                                <li><a href="services-2.html">Services Version Two</a></li>
+                                <li><a href="services-3.html">Services Version Three</a></li>
+                                <li><a href="services-4.html">Services Version Four</a></li>
+                                <li><a href="services-details.html">Services Details</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >Team</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="team.html">Team Version One</a></li>
+                                <li><a href="team-2.html">Team Version Two</a></li>
+                                <li><a href="team-3.html">Team Version Three</a></li>
+                                <li><a href="team-4.html">Team Version Four</a></li>
+                                <li><a href="team-single.html">Team Single</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Blog</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="blog-standard.html">Blog Standard</a></li>
+                                <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
+                                <li><a href="blog-right-sidebar.html">Blog Right Sidebar</a></li>
+                                <li><a href="blog-single.html">Blog Single Standard</a></li>
+                                <li><a href="blog-single-left-sidebar.html">Single Left Sidebar</a></li>
+                                <li><a href="blog-single-right-sidebar.html">Single Right Sidebar</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="contact.html">contact</a>
+                        </li> -->
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+
+        </nav>
+        <!-- End Navigation -->
+
+    </header>
+    <!-- End Header -->
