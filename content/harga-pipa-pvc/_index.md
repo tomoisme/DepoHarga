@@ -42,8 +42,16 @@ Silahkan simak harga pipa PVC terbaru di bawah ini:
 
 {{<harga-pipa-pvc/rucika-std-aw-d>}}
 
-#### Harga Pipa PVC Rucika JIS
+#### Harga Pipa PVC Rucika JIS VP/VU
 
 {{<harga-pipa-pvc/rucika-jis>}}
+
+#### Harga Pipa PVC Pralon AW/D
+
+{{<harga-pipa-pvc/pralon-aw-d>}}
+
+#### Harga Pipa PVC Pralon JIS VP/VU
+
+{{<harga-pipa-pvc/pralon-jis>}}
 
 Apabila anda perhatikan dengan seksama pada harga-harga pipa PVC diatas, anda pasti menyadari bahwa harga pipa ditentukan oleh tipe, merk, ukuran, kualitas dan juga kuantitas pembelian anda. Harga antara merk pipa PVC satu dengan yang lain biasanya mirip apabila mereka bersaing pada segmen yang sama (misalkan Rucika dengan Pralon) akan tetapi yang membedakan adalah diskon yang diberikan oleh penjual pipa PVC tersebut. Jadi biasanya distributor dan toko bahan bangunan atau toko material juga telah memiliki daftar harga pipa PVC yang acuannya sama (biasanya pricelist dari pabrik), pembedanya hanya pada diskon yang dapat diberikan oleh penjual dan juga kondisi stoknya.
