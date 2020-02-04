@@ -2,3 +2,7 @@ baseURL = "https://www.depoharga.com/"
 languageCode = "en-us"
 title = "DepoHarga.COM - Portal Informasi Harga Komoditas"
 disableKinds = "RSS"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
