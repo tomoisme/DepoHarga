@@ -9,8 +9,8 @@
             <p>
                 Tagar:
                 {{ $siteurl := .Site.BaseURL }}
-                {{ range .Params.tagar }}
-                #<a href="{{ $siteurl }}tag/{{ . | urlize }}">{{ . }}</a>
+                {{ range .Params.tags }}
+                #<a href="{{ $siteurl }}tags/{{ . | urlize }}">{{ . }}</a>
                 {{ end }}
             </p>
         </div>

@@ -3,8 +3,8 @@ title: "Harga Genteng Terbaru 2019 - Genteng Metal, Keramik Dan Tanah Liat"
 date: 2019-01-07T07:57:06+07:00
 draft: false
 description: "Daftar harga genteng terbaru 2019 berbagai tipe seperti genteng metal (atap baja ringan), genteng keramik atau genteng tanah liat, genteng ondulin, asbes dan lain-lain."
-layout: "single-tagar"
-tagar:
+layout: "single"
+tags:
 - bahan bangunan
 - material bangunan
 - toko bahan bangunan

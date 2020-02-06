@@ -3,8 +3,8 @@ title: "Harga Keramik Terbaru 2019. Keramik Pola Modern & Minimalis"
 date: 2019-01-07T07:57:11+07:00
 draft: false
 description: "Daftar harga keramik paling update dari distributor keramik Jabodetabek. Dapatkan harga keramik modern dan minimalis di DepoHarga.COM"
-layout: "single-tagar"
-tagar: 
+layout: "single"
+tags: 
 - harga lantai keramik
 - harga material lantai
 - bahan bangunan

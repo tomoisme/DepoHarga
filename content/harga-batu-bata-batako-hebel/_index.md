@@ -4,7 +4,7 @@ date: 2019-01-04T13:56:30+07:00
 draft: false
 description: "Daftar harga batu bata paling update di berbagai toko bahan bangunan dan material Jabodetabek. Tersedia juga info harga batako dan hebel."
 layout: "single"
-tagar:
+tags:
 - batu bata
 - batako
 - hebel
