@@ -16,15 +16,15 @@ tags:
 
 ## Pocophone X2 Dijual Seharga Rp 3 Jutaan Dengan Layar 120Hz, Quad Camera 64MP, Dan Fast Charging 27W
 
-Redmi K30 4G telah mendarat di India. Itu telah tiba dengan Piker X2 moniker. Ini bukan penerus untuk smartphone POCO F1 yang sangat populer mulai 2018. POCO F2 akan tiba beberapa waktu kemudian di tahun ini.
+Setelah sukses dengan POCO F1, kini pabrikan yang sudah tidak lagi menjadi sub-brand Xiaomi itu telah mengapalkan lagi seri terbaru smartphonenya yang diberi nama POCO X2 atau juga disebut dengan Redmi K30 4G. Sebagian dari kamu mungkin akan bertanya: Apakah ini adalah penerus POCO F1? Bukan, POCO X2 bukan penerus F1, melainkan POCO F2 yang akan tetap diluncurkan di tahun 2020 ini pada bulan-bulan mendatang.
 
-POCO telah memulai tahun 2020 dengan smartphone POCO X2 mid-range. Handset telah diperkenalkan di India dalam tiga varian dan datang dengan harga mulai Rs. 15.999 (~ $ 225). POCO X2 adalah ponsel pertama di India yang menggunakan kamera Sony IMX686 64-megapiksel. Ini memiliki layar berukuran besar yang mengesankan yang menawarkan rasio aspek tinggi 120Hz.
+Di tahun 2020 ini POCO memulai dengan smartphone mid-range POCO X2, dimana saat ini POCO X2 sudah diluncurkan di India dalam tiga variasi warna dengan harga mulai dari Rs 15.999 atau sekitar $225 atau Rp 3 jutaan. POCO X2 adalah ponsel pertama di India yang menggunakan kamera Sony IMX686 64MP. Smartphone ini memiliki layar berukuran besar yang mengesankan yang menawarkan refresh rate 120Hz.
 
 ![Poco X2 Edisi Spesial](../img/pocophone-x2-atau-redmi-k30.jpg)
 
 ### Spesifikasi dan fitur POCO X2
 
-POCO X2 berukuran 165,3 x 76,6 x 8,8mm dan beratnya 208 gram. Sisi depan dan belakang ponsel ini diapit Gorilla Glass 5 dan dilengkapi dengan bingkai aluminium. Ini adalah perangkat anti percikan dengan pelapis P2i. POCO X2 dilengkapi dengan layar LCD IPS 6,67 inci yang menawarkan resolusi full HD + 1080 x 2400 piksel. Layar HDR10 yang mendukung mendukung kecepatan refresh 120Hz yang menawarkan pengalaman yang diperkaya dan super mulus. Layar memiliki bentuk pil di sudut kanan atas. Ini rumah dua kamera menghadap ke depan.
+POCO X2 berukuran 165,3 x 76,6 x 8,8 mm dengan berat 208 gram. Sisi depan dan belakang ponsel ini diapit Gorilla Glass 5 dan diperlengkapi dengan bingkai aluminium yang membuat tampilannya kokoh dan nyaman digenggam. POCO X2 memiliki fitur anti percikan air dengan pelapis P2i. Menggunakan layar LCD IPS 6,67 inci yang menawarkan resolusi full HD+ (1080 x 2400 piksel), tampilan gambar pada layar POCO X2 benar-benar jernih gan. Layar HDR10 juga mendukung kecepatan refresh 120Hz sehingga pengguna dapat merasakan gambar yang super mulus. Pada bagian layar depannya POCO X2 memiliki area kamera berbentuk pil di sudut kanan atas. Kamera depannya menggunakan 2 sensor yang mumpuni untuk mengambil berbagai gambar yang cukup mengesankan.
 
 ![Poco X2 Atlantis Blue](../img/poco-x2-atlantis-blue.jpg)
 
@@ -32,9 +32,11 @@ POCO X2 berukuran 165,3 x 76,6 x 8,8mm dan beratnya 208 gram. Sisi depan dan bel
 
 ![Poco X2 Phoenix Red](../img/poco-x2-phoenix-red.jpg)
 
-8nm Snapdragon 730G berada di pucuk pimpinan POCO X2 dengan hingga 8 GB RAM. Android 10 berbasis MIUI 11 hadir di perangkat. Untuk gamer, ponsel ini dilengkapi dengan GPU Turbo untuk pengalaman bermain yang lebih baik. Ponsel ini mampu mengatur suhu internal saat bermain game intensif karena dilengkapi dengan teknologi pendingin cair. POCO X2 menerima daya dari baterai 4.500mAh dan dilengkapi dengan dukungan untuk pengisian cepat 30W. Ini dapat terisi penuh dalam 68 menit, sama seperti K30 4G.
+Snapdragon 730G dengan arsitektur 8nm disematkan dalam POCO X2 dengan memori hingga 8 GB RAM. Sistem operasinya menggunakan Android 10 berbasis MIUI 11. Untuk para gamer, tak ketinggalan ponsel ini dilengkapi juga dengan GPU Turbo untuk pengalaman bermain game mobile yang lebih baik. Dengan teknologi pendingin cair (liquid cooling), smartphone ini mampu mengatur suhu internal dengan cukup baik saat bermain game intensif. Dapur pacu POCO X2 di dukung oleh daya dari baterai 4.500mAh yang sudah mendukung pengisian cepat 30W. Menurut keterangan dari website resminya, baterai POCO X2 dapat terisi penuh dalam 68 menit dari kondisi kosong dengan mode fast charging.
 
-POCO X2 dilengkapi dengan penyimpanan UFS 2.1 hingga 256 GB. Slot SIM bersama tersedia di dalam pesawat untuk lebih banyak penyimpanan. Sistem dual selfie camera pada POCO X2 memiliki penembak utama 20-megapiksel. Ini ditambah dengan 2-megapiksel. Ada pola melingkar pada cangkang belakang POCO X2 yang menampung sistem quad-camera dual-LED flash. Ini dilengkapi dengan lensa utama Sony IMX686 64 megapiksel, lensa ultrawide 8 megapiksel dengan bidang pandang 120 derajat, lensa khusus 2 megapiksel untuk pemotretan makro dan sensor bantuan kedalaman 2 megapiksel. POCO X2 menawarkan banyak fitur kamera seperti penangkapan kamera mentah, perekaman video 4K pada 30fps, perekaman video HD pada 960fps, mode blogging video, perekaman video ultrawide. Kamera depan mendukung mode potret AI, flash layar dan perekaman video full HD pada 30fps.
+POCO X2 dilengkapi juga dengan penyimpanan UFS 2.1 hingga 256 GB. Slot SIM bersama slot memori eksternal tersedia untuk lebih penyimpanan yang lebih banyak, jika menggunakan dual sim anda tidak dapat menggunakan slot memori eksternal. Sistem dual selfie camera pada POCO X2 memiliki kamera depan 20-megapiksel dan ditambah dengan 2-megapiksel sensor kedalaman (depth sensor). Pada bagian belakang smartphone ini ada pola melingkar yang difungsikan untuk menampung sistem quad-camera dual-LED flash. 
+
+Lensa utamanya menggunakan sensor Sony IMX686 64 megapiksel, lensa ultrawide 8 megapiksel dengan bidang pandang 120 derajat, lensa khusus 2 megapiksel untuk pemotretan makro dan sensor bantuan kedalaman 2 megapiksel. POCO X2 menawarkan banyak fitur kamera seperti pemotretan RAW, perekaman video 4K pada 30fps, perekaman video HD pada 960fps, mode vlogging, perekaman video ultrawide. Kamera depan mendukung mode potret AI, flash layar dan perekaman video full HD pada 30fps.
 
 POCO X2 hadir dengan fitur-fitur lain seperti dukungan dual SIM, Wi-Fi 802.11ac, VoWiFi, Bluetooth 5.0, IR blaster, GPS, USB-C dan jack audio 3.5mm. Ponsel ini juga dilengkapi dengan Hi-Res Audio dan 1217 speaker super line dengan pengeras suara Smart PA. Terakhir, ada sensor sidik jari yang terpasang di perangkat.
 
@@ -45,10 +47,9 @@ Berikut adalah harga dari berbagai varian POCO X2:
     6 GB RAM + 64 GB penyimpanan - Rs. 15.999 (~ $ 225)
     6 GB RAM + 128 GB penyimpanan - Rs. 16.999 (~ $ 239)
     8 GB RAM + penyimpanan 256 GB - Rs. 19.999 (~ $ 281)
+
     Varian warna: Atlantis Blue, Matrix Purple, dan Phoenix Red
 
-POCO X2 akan tersedia secara eksklusif untuk pembelian melalui Flipkart mulai 11 Februari. Pembeli dengan kartu debit dan kredit ICICI dengan Rs. 1.000 uang kembali.
+Sepanjang acara peluncuran POCO X2, perusahaan mengklaim bahwa perangkatnya lebih baik daripada Realme X2 dalam banyak aspek. Tapi ya namanya juga orang jualan, pasti akan memuji-muji produknya sendiri ketimbang produk dari kompetitor.
 
-Sepanjang acara peluncuran POCO X2, perusahaan mengklaim bahwa perangkatnya lebih baik daripada Realme X2 dalam banyak aspek.
-
-Apa pendapatmu? Bagikan pemikiran Anda dengan memposting komentar Anda di bawah ini.
+Apa pendapatmu tentang POCO X2? Jangan lupa tinggalkan komentar kamu mengenai hape terbaru dari POCO ini.
