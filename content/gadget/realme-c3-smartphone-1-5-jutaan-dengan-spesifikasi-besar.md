@@ -17,7 +17,9 @@ tags:
 
 ## Realme C3, Smartphone Rp 1.5 Jutaan Dengan Baterai dan Layar Besar!
 
-Smartphone murah Realme C3 telah mendarat secara resmi di India, guys. Buat kalian yang menanti-nantikan hape android murah dengan fitur yang besar, hape ini layak untuk dimasukkan ke dalam daftar belanja kamu.
+![Realme C3, hape android murah dengan baterai dan layar super besar!](../img/realme-c3-hape-android-murah-baterai-besar.jpg)
+
+Smartphone murah Realme C3 telah mendarat secara resmi, guys. Buat kalian yang menanti-nantikan hape android murah dengan fitur yang besar, hape ini layak untuk dimasukkan ke dalam daftar belanja kamu.
 
 Realme C3 menggunakan chipset Helio G70 yang di desain untuk kemampuan gaming pada smartphone murah dengan kemampuan yang melebihi harganya. Realme C3 juga dibuat menggunakan baterai dan layar yang lebih besar, sehingga hape murah ini digadang-gadang sebagai "Superstar Entertainment" pada rentang harga Rp 1.5 jutaan.
 
@@ -29,13 +31,18 @@ Desain bagian belakang hape ini dibuat dinamakan sunrinse design.
 
 Sistem operasinya berbasis Android 10 yang dipadukan dengan Realme UI yang sebenarnya adalah ColorOS 7 yang dikustomisasi. Pembeli akan dimanjakan dengan berbagai fitur baru pada animasi sistem, focus mode, smart gestures, screenshot 3 jari, dual mode music share dan proteksi terhadap informasi personal.
 
-Ditenagai oleh 
+Realme C3 ditenagai oleh chipset Helio G70 dengan kecepatan 2.0 Ghz dan chip grafis ARM G52, chipsetnya memiliki arsitektur 12 nm dengan fitur optimasi latensi jaringan. SoC Helio G70 ini dipadukan dengan 4 GB LDDR4x RAM dan kapasitas penyimpanan hingga 64 GB. Tersedia slot kartu microSD untuk penyimpanan eksternal yang lebih banyak.
 
-The 2.0GHz Helio G70 chipset that comes with ARM G52 graphics powers the Realme C3. The 12nm SoC comes with network latency optimization. The SoC is coupled with up to 4 GB of LDDR4x RAM. The phone users with a maximum internal storage of 64 GB. There is a microSD card slot on the device for additional storage.
+Pada kamera bagian belakang, Realme C3 menyematkan teknologi AI untuk dua kamera vertikalnya dimana kamera utamanya memiliki aperture f/1.8 dan sensor 12 MP serta kamera sekundernya memiliki aperture f/2.4 dan sensor kedalaman 2 MP. Kamera depannya memiliki sensor 5 MP berukuran 1.12 micron pixel yang dilengkapi dengan AI Beauty Selfie. Beragam fitur lainnya seperti LED flash, fast PDAF focus, Chroma boost, Panorama Selfie, HDR Mode, 1202slow-motion video shooting and 1080p video recording dibuat untuk mengakomodir kebutuhan fotografi pada kamera belakangnya. Sementara untuk kamera depannya hanya dilengkapi dengan teknologi AI Portrait, HDR mode dan Panoselfie.
 
-The rear side of the Realme C3 has an AI powered vertical dual camera setup. It has an f/1.8 aperture 12-megapixel primary shooter and an f/2.4 aperture 2-megapixel depth sensor. It is fitted with a5-megapixel an AI Beauty Selfie camera with 1.12micron pixel size. The Realme C3 is blessed with photography features like LED flash, fast PDAF focus, Chroma Boost, Panorama Selfie, HDR Mode, 1202slow-motion video shooting and 1080p video recording for the rear cameras. The front camera is equipped with features like AI Portrait, HDR Mode and Panoselfie.
+### Baterai Dengan Kapasitas Super Besar
 
-The Realme C3 draws power from a 5,000mAh battery. There is no support for fast charging on the device. It carries support for reverse charging that it can be used to charge other devices. Also, the device lacks a fingerprint scanner. Hence, users will be only provided with face unlock biometric recognition feature on the Realme C3. The handset is equipped with other features like dual 4G VoLTE, Wi-Fi 802.11ac, Bluetooth 5.0, GPS, microUSB 2.0 and 3.5mm audio jack.
-Realme C3 pricing and availability
+Nah ini menurut saya salah satu hal istimewa di hape android murah ini, guys. Baterai Realme C3 memiliki kapasitas gede, 5.000 mAh. Namun sayangnya tidak ada dukungan fast charging untuk hape ini, jadi kamu mungkin bakal nge-charge hape ini semalaman guys. Tapi nggak perlu khawatir juga, toh sekali charge baterainya bisa cukup untuk mengakomodir berbagai kebutuhan kamu sampai seharian.
 
-The Realme C3 has arrived in India in two variants such as GB RAM + 32 GB storage and 4 GB RAM + 64 GB storage. These models are respectively priced at Rs. 6,999 (~$98) and Rs. 6,999 (~$112). The phone comes in color editions Blazing Red and Frozen Blue. Customers who are interested in purchasing the Realme C3 can buy it first on Feb. 14 at 12 PM through Flipkart and Realme India’s website. Launch offers include cash benefits worth Rs. 7,550 from Jio and first day sale offer on Flipkart that brings up to Rs. 1,000 on exchange. It will be also made available in retail stores in the near future.
+Karena harganya yang murah juga, Realme memutuskan untuk tidak menggunakan fitur fingerprint scanner pada Realme C3 namun pembeli masih dapat menggunakan fitur biometric recognition yang cukup akurat. 
+
+Realme C3 sudah mendukung beragam konektivitas terkini seperti 4G VoLTE, Wi-Fi 802.11ac, Bluetooth 5.0, GPS, microUSB 2.0 and 3.5mm audio jack.
+
+## Haga Realme C3
+
+Memiliki 2 varian: 4 GB RAM + 32 GB ROM dan 4 GB RAM + 64 GB ROM. Realme C3 32 GB dibanderol dengan harga $98 atau sekitar Rp 1.3 - Rp 1.4 jutaan, sementara versi 64 GB-nya dibanderol dengan harga $112 atau sekitar Rp 1.5 - Rp 1.6 jutaan. Hape ini dikemas dalam 2 pilihan warna, yakni Blazing Red dan Frozen Blue. Saat ini Realme C3 hanya akan tersedia di India saja, namun tidak menutup kemungkinan hape ini bakal masuk ke Indonesia dalam waktu dekat.
